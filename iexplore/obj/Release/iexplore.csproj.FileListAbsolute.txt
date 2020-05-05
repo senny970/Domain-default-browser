@@ -1,0 +1,6 @@
+C:\Users\pavliuk-od\source\repos\iexplore\iexplore\bin\Release\iexplore.exe.config
+C:\Users\pavliuk-od\source\repos\iexplore\iexplore\bin\Release\iexplore.exe
+C:\Users\pavliuk-od\source\repos\iexplore\iexplore\bin\Release\iexplore.pdb
+C:\Users\pavliuk-od\source\repos\iexplore\iexplore\obj\Release\iexplore.exe
+C:\Users\pavliuk-od\source\repos\iexplore\iexplore\obj\Release\iexplore.pdb
+C:\Users\pavliuk-od\source\repos\iexplore\iexplore\obj\Release\iexplore.csprojAssemblyReference.cache
